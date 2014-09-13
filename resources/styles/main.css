@@ -1,0 +1,15 @@
+body {
+  text-align:center;
+  background-color: black;
+}
+
+#main {
+  width: auto;
+  height: auto;
+}
+
+#aquarium {
+  font-family: Courier, "Courier New", monospace;
+  font-size: 18px;
+  color: lightseagreen;
+}

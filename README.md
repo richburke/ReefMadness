@@ -1,2 +1,4 @@
-ReefMadness
-===========
+EloquentJS
+==========
+
+Exercises from "Eloquent JavaScript."
